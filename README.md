@@ -12,7 +12,7 @@ The applications of swarm drones are vast and include search and rescue missions
 - Router(Optional)
 
 ## Software Requirements
-- QGroundControl - It is a GCS 
+- QGroundControl or any other GCS ( Ground Control Station)
 
 ## Setup 
 For wifi telemetry you can follow the [setup](https://ardupilot.org/copter/docs/common-esp8266-telemetry.html)
